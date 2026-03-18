@@ -25,10 +25,10 @@ const DummyAbout2 = () => {
        
 
       <div className="about2Explainer">
-      <h1 style={{fontWeight:"600",color:"#000",fontSize:"2.2rem"}}> Set It and Streamline Procurement{/*<span className="text-accent">  get the Job! </span>*/}</h1>
+      <h1 style={{fontWeight:"600",color:"#000",fontSize:"2.2rem"}}>Set It and Simplify Operations</h1>
 
          <p style={{fontSize:"1.1rem"}}>
-         Effortless supply chain management. Once set up, the system works for you—handling purchase orders, vendor updates, and shipping confirmations with your sign-off. No manual chasing, no endless follow-ups—just procurement and logistics made simple.
+         Effortless management for busy real estate professionals. Once set up, the platform works for you organizing showings, tracking agent activity, and generating invoices automatically. No manual spreadsheets and no chasing paperwork. Just streamlined tools that keep your business running smoothly.
         </p>
 
        {/*<div className = "about-btn-placement" >

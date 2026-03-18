@@ -33,10 +33,10 @@ const DummyAbout = () => {
        
 
       <div className="aboutExplainer">
-      <h1 style={{fontWeight:"600",color:"#000",fontSize:"2.2rem"}}> Every Shipment is Strategic{/*<span className="text-accent">  get the Job! </span>*/}</h1>
+      <h1 style={{fontWeight:"600",color:"#000",fontSize:"2.2rem"}}>Real-Time Agent Visibility</h1>
 
          <p style={{fontSize:"1.1rem"}}>
-         Stand out by showing you deliver more than products—you deliver reliability. Every shipment is about your customer's needs, not just your logistics. Provide AI-powered tracking updates, proactive delivery insights, and meaningful check-ins that build trust from purchase to arrival.
+         Know where agents are when it matters most. Track agents during showings, coordinate schedules, and keep teams informed in real time. Instead of constant calls and texts, everyone can see what’s happening instantly ensuring smooth property tours, better coordination, and a more professional experience for clients.
         </p>
 
        {/*<div className = "about-btn-placement" >

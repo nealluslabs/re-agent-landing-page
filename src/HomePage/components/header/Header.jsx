@@ -32,11 +32,11 @@ const DummyHeader = () => {
       
 
       <div className="headerExplainer">
-         <h1 className="text-light" style={{marginBottom:"0rem",color:"white",fontWeight:"700"}}> Seamless Technology. Strategic Procurement.</h1>
+         <h1 className="text-light" style={{marginBottom:"0rem",color:"white",fontWeight:"700"}}>Smart Agent Operations.</h1>
    
          
             <p className="text-light" style={{maxWidth:"50%",margin:"0 auto",marginBottom:"2rem",marginTop:"2rem",color:"white"}}>
-              AI-driven procurement that ensures the right purchase, at the right time—automatically. Stay efficient and compliant with technology that takes the manual work out of sourcing and approvals.
+             AI-powered tools that help real estate agents coordinate showings, track team locations, and manage documents automatically. Stay organized and efficient with technology designed to simplify the business side of real estate.
            </p>
         
    
@@ -67,7 +67,7 @@ const DummyHeader = () => {
               <button 
               onClick ={()=>{window.location.href = '#'}}
           style={{ 
-            backgroundColor: "#B82224",
+            backgroundColor: "#0000FF",
             color: 'white',
             padding: '10px 20px',
             borderRadius: '8px',

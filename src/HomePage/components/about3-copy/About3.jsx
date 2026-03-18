@@ -1,9 +1,7 @@
-import React from 'react'
+
 import './about3.css'
-//import mobileAndWeb from 'src/assets/images/mobile&web.png'
 import officeresearch from '../../../images/Procumrent3.png'
-import {AiOutlineArrowRight} from 'react-icons/ai'
-//import { useNavigate } from 'react-router-dom'
+
 
 const DummyAbout3 = () => {
 
@@ -34,10 +32,10 @@ const DummyAbout3 = () => {
        
 
       <div className="aboutExplainer">
-      <h1 style={{fontWeight:"600",color:"#000",fontSize:"2.2rem"}}> Deliver When the Timing's Right{/*<span className="text-accent">  get the Job! </span>*/}</h1>
+      <h1 style={{fontWeight:"600",color:"#000",fontSize:"2.2rem"}}>Always Be in the Right Place at the Right Time</h1>
 
          <p style={{fontSize:"1.1rem"}}>
-         Be seen as dependable, not disruptive. Our system identifies the best moments to place orders and ship—ensuring stock arrives before shortages and deliveries align with demand. Every move feels coordinated, not random—like restocking ahead of a seasonal rush or expediting before a critical deadline.
+        Stay coordinated and responsive with smarter scheduling and location awareness. Our system helps agents and teams manage showings efficiently, ensuring coverage across properties and reducing scheduling conflicts. Clients experience timely showings, organized agents, and a seamless real estate process from start to finish.
         </p>
 
        {/*<div className = "about-btn-placement" >
